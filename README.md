@@ -1,5 +1,6 @@
 # Art-Store
 
-Generating an artstore webpage markup contents using javascript: outputting rows and calculations functionality through functions, loops, conditionals, etc.
+Built an artstore webpage using javascript programmatically: outputting rows and calculations functionality through functions, loops, conditionals, imported data, etc.
 
-![image](https://github.com/briendeau/Art-Store/assets/62812999/ab3874c5-411a-40e4-9caf-946d2581399c)
+![image](https://github.com/briendeau/Art-Store/assets/62812999/d31ce926-1bb0-465f-bbc5-e870ebfa1da6)
+
